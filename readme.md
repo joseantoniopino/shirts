@@ -11,3 +11,5 @@
 - En app/ Están los modelos
 - En app/http están los Request, Controllers e Infrastructure/
 - En infrastructure/ hay repositorio y service.
+
+Las uri son /products y /variants
